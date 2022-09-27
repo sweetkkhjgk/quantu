@@ -5,7 +5,7 @@
 
 [mitm] 
 
-hostname = license.pdfexpert.com
+hostname = *.*
 
 *******************************/
 
